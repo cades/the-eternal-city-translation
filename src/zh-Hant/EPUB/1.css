@@ -1,0 +1,96 @@
+p {
+    margin-top: 0.75em;
+    text-align: justify;
+    margin-bottom: 0.75em
+    }
+p.titleblock {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: 0;
+    text-align: center
+    }
+p.letterstart {
+    margin-top: 4em
+    }
+p.letterend {
+    margin-bottom: 4em
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    clear: both
+    }
+h3 {
+    margin-top: 2em
+    }
+table {
+    margin-left: auto;
+    margin-right: auto
+    }
+body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+.pagenum {
+    display: inline;
+    font-size: x-small;
+    text-align: right;
+    border: 1px solid white;
+    padding: 1px 3px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    color: #444;
+    background-color: #EEE
+    }
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%
+    }
+.center {
+    text-align: center
+    }
+.smcap {
+    font-variant: small-caps
+    }
+td.pr {
+    padding-right: 10px
+    }
+hr.full {
+    width: 100%;
+    margin-top: 2em;
+    margin-bottom: 2em
+    }
+hr.major {
+    width: 75%;
+    margin-top: 2em;
+    margin-bottom: 2em
+    }
+hr.minor {
+    width: 30%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em
+    }
+.figcenter {
+    margin: auto;
+    text-align: center
+    }
+.caption {
+    font-size: 80%
+    }
+.tnote {
+    border: dashed 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 90%
+    }
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em
+    }

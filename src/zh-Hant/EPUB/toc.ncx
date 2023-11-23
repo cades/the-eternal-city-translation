@@ -1,0 +1,794 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="5bd780ca-24c9-4580-9b33-865642b618e0" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-2">
+      <navLabel>
+        <text>PREFACE TO THIS EDITION</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00002"/>
+    </navPoint>
+    <navPoint id="sep_0">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00005"/>
+      <navPoint id="np-4">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00006"/>
+      </navPoint>
+      <navPoint id="np-5">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00010"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_1">
+      <navLabel>
+        <text>PART ONE—THE HOLY ROMAN EMPIRE</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00016"/>
+      <navPoint id="np-7">
+        <navLabel>
+          <text>TWENTY YEARS LATER I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-8">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-9">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-10">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-11">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00033"/>
+      </navPoint>
+      <navPoint id="np-12">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-13">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00045"/>
+      </navPoint>
+      <navPoint id="np-14">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00049"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_2">
+      <navLabel>
+        <text>PART TWO—THE REPUBLIC OF MAN</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00056"/>
+      <navPoint id="np-16">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00057"/>
+      </navPoint>
+      <navPoint id="np-17">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00059"/>
+      </navPoint>
+      <navPoint id="np-18">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00064"/>
+      </navPoint>
+      <navPoint id="np-19">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00067"/>
+      </navPoint>
+      <navPoint id="np-20">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00072"/>
+      </navPoint>
+      <navPoint id="np-21">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00077"/>
+      </navPoint>
+      <navPoint id="np-22">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00081"/>
+      </navPoint>
+      <navPoint id="np-23">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00085"/>
+      </navPoint>
+      <navPoint id="np-24">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-0.htm.xhtml#pgepubid00093"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_3">
+      <navLabel>
+        <text>PART THREE—ROMA</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00097"/>
+      <navPoint id="np-26">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00098"/>
+      </navPoint>
+      <navPoint id="np-27">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00104"/>
+      </navPoint>
+      <navPoint id="np-28">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00108"/>
+      </navPoint>
+      <navPoint id="np-29">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00114"/>
+      </navPoint>
+      <navPoint id="np-30">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00118"/>
+      </navPoint>
+      <navPoint id="np-31">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00123"/>
+      </navPoint>
+      <navPoint id="np-32">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00128"/>
+      </navPoint>
+      <navPoint id="np-33">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00134"/>
+      </navPoint>
+      <navPoint id="np-34">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00140"/>
+      </navPoint>
+      <navPoint id="np-35">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00145"/>
+      </navPoint>
+      <navPoint id="np-36">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00152"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_4">
+      <navLabel>
+        <text>PART FOUR—DAVID ROSSI</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00157"/>
+      <navPoint id="np-38">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00158"/>
+      </navPoint>
+      <navPoint id="np-39">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00163"/>
+      </navPoint>
+      <navPoint id="np-40">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00165"/>
+      </navPoint>
+      <navPoint id="np-41">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00168"/>
+      </navPoint>
+      <navPoint id="np-42">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00170"/>
+      </navPoint>
+      <navPoint id="np-43">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00176"/>
+      </navPoint>
+      <navPoint id="np-44">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00179"/>
+      </navPoint>
+      <navPoint id="np-45">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00181"/>
+      </navPoint>
+      <navPoint id="np-46">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00187"/>
+      </navPoint>
+      <navPoint id="np-47">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00189"/>
+      </navPoint>
+      <navPoint id="np-48">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00193"/>
+      </navPoint>
+      <navPoint id="np-49">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-1.htm.xhtml#pgepubid00200"/>
+      </navPoint>
+      <navPoint id="np-50">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00202"/>
+      </navPoint>
+      <navPoint id="np-51">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00210"/>
+      </navPoint>
+      <navPoint id="np-52">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00215"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_5">
+      <navLabel>
+        <text>PART FIVE—THE PRIME MINISTER</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00219"/>
+      <navPoint id="np-54">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00220"/>
+      </navPoint>
+      <navPoint id="np-55">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00229"/>
+      </navPoint>
+      <navPoint id="np-56">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00235"/>
+      </navPoint>
+      <navPoint id="np-57">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00244"/>
+      </navPoint>
+      <navPoint id="np-58">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00252"/>
+      </navPoint>
+      <navPoint id="np-59">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00256"/>
+      </navPoint>
+      <navPoint id="np-60">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00260"/>
+      </navPoint>
+      <navPoint id="np-61">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00267"/>
+      </navPoint>
+      <navPoint id="np-62">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00272"/>
+      </navPoint>
+      <navPoint id="np-63">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00279"/>
+      </navPoint>
+      <navPoint id="np-64">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00285"/>
+      </navPoint>
+      <navPoint id="np-65">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00290"/>
+      </navPoint>
+      <navPoint id="np-66">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-2.htm.xhtml#pgepubid00296"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_6">
+      <navLabel>
+        <text>PART SIX—THE ROMAN OF ROME</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00301"/>
+      <navPoint id="np-68">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00302"/>
+      </navPoint>
+      <navPoint id="np-69">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00305"/>
+      </navPoint>
+      <navPoint id="np-70">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00307"/>
+      </navPoint>
+      <navPoint id="np-71">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00310"/>
+      </navPoint>
+      <navPoint id="np-72">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00316"/>
+      </navPoint>
+      <navPoint id="np-73">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00321"/>
+      </navPoint>
+      <navPoint id="np-74">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00323"/>
+      </navPoint>
+      <navPoint id="np-75">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00326"/>
+      </navPoint>
+      <navPoint id="np-76">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00332"/>
+      </navPoint>
+      <navPoint id="np-77">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00338"/>
+      </navPoint>
+      <navPoint id="np-78">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00342"/>
+      </navPoint>
+      <navPoint id="np-79">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00348"/>
+      </navPoint>
+      <navPoint id="np-80">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00351"/>
+      </navPoint>
+      <navPoint id="np-81">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00355"/>
+      </navPoint>
+      <navPoint id="np-82">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00359"/>
+      </navPoint>
+      <navPoint id="np-83">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00363"/>
+      </navPoint>
+      <navPoint id="np-84">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-3.htm.xhtml#pgepubid00370"/>
+      </navPoint>
+      <navPoint id="np-85">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00376"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_7">
+      <navLabel>
+        <text>PART SEVEN—THE POPE</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00380"/>
+      <navPoint id="np-87">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00381"/>
+      </navPoint>
+      <navPoint id="np-88">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00385"/>
+      </navPoint>
+      <navPoint id="np-89">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00390"/>
+      </navPoint>
+      <navPoint id="np-90">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00397"/>
+      </navPoint>
+      <navPoint id="np-91">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00402"/>
+      </navPoint>
+      <navPoint id="np-92">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00406"/>
+      </navPoint>
+      <navPoint id="np-93">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00411"/>
+      </navPoint>
+      <navPoint id="np-94">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00415"/>
+      </navPoint>
+      <navPoint id="np-95">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00420"/>
+      </navPoint>
+      <navPoint id="np-96">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00424"/>
+      </navPoint>
+      <navPoint id="np-97">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00427"/>
+      </navPoint>
+      <navPoint id="np-98">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00430"/>
+      </navPoint>
+      <navPoint id="np-99">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00433"/>
+      </navPoint>
+      <navPoint id="np-100">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00442"/>
+      </navPoint>
+      <navPoint id="np-101">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00445"/>
+      </navPoint>
+      <navPoint id="np-102">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00449"/>
+      </navPoint>
+      <navPoint id="np-103">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00452"/>
+      </navPoint>
+      <navPoint id="np-104">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00460"/>
+      </navPoint>
+      <navPoint id="np-105">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00463"/>
+      </navPoint>
+      <navPoint id="np-106">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00469"/>
+      </navPoint>
+      <navPoint id="np-107">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-4.htm.xhtml#pgepubid00474"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_8">
+      <navLabel>
+        <text>PART EIGHT—THE KING</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00478"/>
+      <navPoint id="np-109">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00479"/>
+      </navPoint>
+      <navPoint id="np-110">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00483"/>
+      </navPoint>
+      <navPoint id="np-111">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00489"/>
+      </navPoint>
+      <navPoint id="np-112">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00494"/>
+      </navPoint>
+      <navPoint id="np-113">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00499"/>
+      </navPoint>
+      <navPoint id="np-114">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00504"/>
+      </navPoint>
+      <navPoint id="np-115">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00509"/>
+      </navPoint>
+      <navPoint id="np-116">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00515"/>
+      </navPoint>
+      <navPoint id="np-117">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00519"/>
+      </navPoint>
+      <navPoint id="np-118">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00523"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="sep_9">
+      <navLabel>
+        <text>PART NINE—THE PEOPLE</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00528"/>
+      <navPoint id="np-120">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00529"/>
+      </navPoint>
+      <navPoint id="np-121">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00533"/>
+      </navPoint>
+      <navPoint id="np-122">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00536"/>
+      </navPoint>
+      <navPoint id="np-123">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00541"/>
+      </navPoint>
+      <navPoint id="np-124">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00544"/>
+      </navPoint>
+      <navPoint id="np-125">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00550"/>
+      </navPoint>
+      <navPoint id="np-126">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00555"/>
+      </navPoint>
+      <navPoint id="np-127">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-5.htm.xhtml#pgepubid00561"/>
+      </navPoint>
+      <navPoint id="np-128">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-6.htm.xhtml#pgepubid00567"/>
+      </navPoint>
+      <navPoint id="np-129">
+        <navLabel>
+          <text>Transcriber's Notes</text>
+        </navLabel>
+        <content src="5978572327643066229_19732-h-6.htm.xhtml#pgepubid00572"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-130">
+      <navLabel>
+        <text>THE FULL PROJECT GUTENBERG LICENSE</text>
+      </navLabel>
+      <content src="5978572327643066229_19732-h-7.htm.xhtml#pg-footer-heading"/>
+    </navPoint>
+  </navMap>
+</ncx>
