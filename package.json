@@ -1,0 +1,9 @@
+{
+  "name": "the-eternal-city-translation",
+  "version": "0.1.0",
+  "description": "The eternal city translation project for Traditional Chinese",
+  "main": "index.js",
+  "repository": "git@github.com:cades/the-eternal-city-translation.git",
+  "author": "hong-jen kao <cadeskao@gmail.com>",
+  "license": "MIT"
+}
