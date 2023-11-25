@@ -23,7 +23,7 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - name: Create epub
-        run: zip -rX ../../dist/永遠之都_雙語對照版.epub mimetype META-INF/ EPUB/
+        run: zip -rX ../../dist/The_Eternal_City_Bilingual_zh-Hant_$(git rev-parse --short HEAD).epub mimetype META-INF/ EPUB/
         working-directory: src/zh-Hant
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v4
