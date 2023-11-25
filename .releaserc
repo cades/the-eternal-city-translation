@@ -4,5 +4,11 @@
     ["@semantic-release/npm", {
       "npmPublish": false,
     }],
+    [
+      "@semantic-release/github",
+      {
+        "assets": ["dist/**"]
+      }
+    ],
   ]
 }
