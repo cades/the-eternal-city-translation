@@ -1,6 +1,9 @@
 name: Release new version of ebook
 run-name: ${{ github.actor }} is releasing new version 🚀
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
